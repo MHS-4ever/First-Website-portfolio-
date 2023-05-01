@@ -1,6 +1,7 @@
 # First-Website-portfolio-
 My first ever Web Development project (a sample of portfolio website).
-The HTML and CSS code provided is for a simple, responsive landing page that can be used as a starting point for a website. Here is a brief explanation of each section:
+
+The HTML and CSS code provided is for a simple, responsive landing page that can be used as a starting point for a website. Here is a brief explanation of each section
 
 HTML code:
 
